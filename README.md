@@ -13,3 +13,35 @@ Dive into the world of gaming with "Game Sales Analysis"! 🎮📈 In this repos
 
 *Insert screenshots or GIFs of your Power BI dashboards here.*
 
+## 🛠️ Setup and Usage
+
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/your-username/Game-Sales-Analysis.git
+    ```
+
+2. **MS SQL SERVER Analysis:**
+    - Execute the SQL script located in `SQL/game_sales_analysis.sql` on your MS SQL SERVER.
+
+3. **Explore with Power BI:**
+    - Open `PowerBI/game_sales_analysis_dashboard.pbix` in Power BI for an immersive experience.
+
+## 🤝 Contributing
+
+Contributions are encouraged! If you have ideas to enhance the analysis or want to add new features:
+
+- Open issues to discuss potential changes.
+- Submit pull requests to collaborate on improvements.
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
+
+## 📬 Contact
+
+Questions or suggestions? Reach out to me:
+
+- **Your Name**
+- **Email:** [YourEmail@example.com](mailto:YourEmail@example.com)
+
+Level up your understanding of game sales data! Let the analysis begin! 🚀📊
