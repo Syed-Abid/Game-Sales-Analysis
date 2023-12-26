@@ -24,7 +24,7 @@ Dive into the world of gaming with "Game Sales Analysis"! 🎮📈 In this repos
     - Execute the SQL script located in `Game Sales Analysis.sql` on your MS SQL SERVER.
 
 3. **Explore with Power BI:**
-    - Open `PowerBI/game_sales_analysis_dashboard.pbix` in Power BI for an immersive experience.
+    - Open `Game Sales Dashboard.pbix` in Power BI for an immersive experience.
 
 ## 🤝 Contributing
 
