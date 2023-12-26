@@ -1,5 +1,9 @@
 # Game Sales Analysis 🎮📊
 
+<div align="center">
+  <img src="https://img.pikbest.com/ai/illus_our/20230422/2e14d9c083a11e3f2a9717911000a721.jpg!w700wp" alt="Game Picture">
+</div>
+
 
 Dive into the world of gaming with "Game Sales Analysis"! 🎮📈 In this repository, witness an in-depth analysis of a game sales dataset using MS SQL SERVER and Power BI, uncovering trends, preferences, and potential insights in the gaming industry.
 
