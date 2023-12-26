@@ -33,10 +33,6 @@ Contributions are encouraged! If you have ideas to enhance the analysis or want 
 - Open issues to discuss potential changes.
 - Submit pull requests to collaborate on improvements.
 
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
-
 ## 📬 Contact
 
 Questions or suggestions? Reach out to me:
