@@ -17,7 +17,7 @@ Dive into the world of gaming with "Game Sales Analysis"! 🎮📈 In this repos
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/Game-Sales-Analysis.git
+    git clone https://github.com/Syed-Abid/Game-Sales-Analysis.git
     ```
 
 2. **MS SQL SERVER Analysis:**
