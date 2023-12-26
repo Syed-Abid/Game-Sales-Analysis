@@ -37,7 +37,7 @@ Contributions are encouraged! If you have ideas to enhance the analysis or want 
 
 Questions or suggestions? Reach out to me:
 
-- **Your Name**
-- **Email:** [YourEmail@example.com](mailto:YourEmail@example.com)
+- **Syed Abid**
+- **Email:** [abidhassanjaffri31@gmail.com](mailto:abidhassanjaffri31@gmail.com)
 
 Level up your understanding of game sales data! Let the analysis begin! 🚀📊
